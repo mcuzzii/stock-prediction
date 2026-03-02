@@ -1,0 +1,27 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Data files (Keep your repo light!)
+*.csv
+*.xlsx
+*.json
+*.zip
+*.pkl
+*.joblib
+*.bin
+*.rds
+.RData
+.RDataTmp
+data/
+.conda/
+tuning/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Project secrets
+.env
