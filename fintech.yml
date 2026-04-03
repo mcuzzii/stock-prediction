@@ -1,0 +1,7 @@
+name: fintech
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+prefix: /opt/anaconda3/envs/fintech
